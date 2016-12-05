@@ -1,0 +1,28 @@
+{
+	"index.html": {
+		"resources": [
+			"css/index.css",
+			"js/swiper.jquery.js",
+			"js/swiper.animate1.0.2.min.js",
+			"js/zepto.min.js",
+			"css/animate.css",
+			"css/swiper.css",
+			"js/swiper.js",
+			"iconfont/sousuo/iconfont.woff",
+			"img/sheep.png",
+			"img/new5.png",
+			"img/new1.png",
+			"img/new9.png",
+			"img/new6.png",
+			"img/new8.png",
+			"img/new7.png",
+			"img/new2.png",
+			"img/new3.png",
+			"img/ban1.png",
+			"img/ban2.png",
+			"img/ban3.png",
+			"img/new10.png",
+			"iconfont/font/iconfont.woff"
+		]
+	}
+}
